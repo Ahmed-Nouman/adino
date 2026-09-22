@@ -1,0 +1,14 @@
+# Generated output: annotated images, snapshots, stack logs
+result/
+results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

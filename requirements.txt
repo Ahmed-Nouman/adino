@@ -1,0 +1,6 @@
+depthai==3.10.0
+numpy==2.5.3
+opencv-python==5.0.0.93
+ultralytics==8.4.154
+ultralytics-platform==0.1.46
+ultralytics-thop==2.1.6
